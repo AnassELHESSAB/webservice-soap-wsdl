@@ -15,6 +15,6 @@ Le fichier WSDL, généré par XML-WS Runtime (Metro JAX-WS), définit la struct
 <img src="Captures/WSDL.PNG">
 <img src="Captures/TestWSConvertMt.PNG">
 <img src="Captures/TestWSGetinfoCompte.PNG">
-<img src="Captures/TestWSlistCompte.PNG">
+<img src="Captures/TestWSListCompte.PNG">
 
 
